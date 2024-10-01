@@ -34,8 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KayanDenizo/KayanDenizo/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
