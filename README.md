@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-✨ Sempre criando, aprendendo e programando<br>📚 Estou atualmente em aprendizado e fazendo projetos<br>🎯 Objetivos:<br>- Trabalhar como programador Front-End<br>- Ajudar minha família financeiramente<br>- Obter cada vez mais conhecimento.<br>♟ Soft Skills:<br>> Trabalho em equipe<br>> Boa liderança<br>> Lidar com problemas<br>> Comunicação<br>> Confiança<br>> Atitude positiva<br>> Capacidade de trabalhar sob pressão<br>> Organização e gestão do tempo<br>> Inglês fluente<br>> 🔥 Hard Skills:<br>> HTML5<br>> CSS3<br>> JAVASCRIPT<br>> PYTHON<br>> MYSQL<br>> YARN<br>> NODEJS<br>> PHP<br>> REACT JS<br>> TYPESCRIPT
+✨ Sempre criando, aprendendo e programando<br>📚 Estou atualmente em aprendizado e fazendo projetos<br>🎯 Objetivos:<br>- Trabalhar como programador Front-End<br>- Ajudar minha família financeiramente<br>- Obter cada vez mais conhecimento.<br>♟ Soft Skills:<br>> Trabalho em equipe<br>> Boa liderança<br>> Lidar com problemas<br>> Comunicação<br>> Confiança<br>> Atitude positiva<br>> Capacidade de trabalhar sob pressão<br>> Organização e gestão do tempo<br>> Inglês fluente<br> <br>🔥 Hard Skills:<br>> HTML5<br>> CSS3<br>> JAVASCRIPT<br>> PYTHON<br>> MYSQL<br>> YARN<br>> NODEJS<br>> PHP<br>> REACT JS<br>> TYPESCRIPT
 
 
 # 💻 Tech Stack:
