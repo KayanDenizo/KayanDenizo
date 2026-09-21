@@ -2,7 +2,7 @@
 ✨ Sempre criando, aprendendo e programando<br>
 📚 Cursando Desenvolvimento de Sistemas (ADS) na Etec Uirapuru — sempre em aprendizado e fazendo projetos<br>
 🎯 Objetivos:<br>
-- Trabalhar como programador Front-End<br>
+- Trabalhar como programador Full-Stack<br>
 - Atuar também como freelancer, prestando serviços de desenvolvimento<br>
 - Ajudar minha família financeiramente<br>
 - Obter cada vez mais conhecimento<br>
