@@ -45,10 +45,10 @@ App desktop em Java Swing com login e cadastro de clientes e produtos, persistê
 
 ## 🛠️ Tecnologias
 
-**Front-end:** React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
-**Back-end:** Node.js · Express · PHP · Java
-**Mobile:** React Native (Expo) · Android (Java/Kotlin)
-**Banco de dados:** MySQL · SQLite
+**Front-end:** React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS<br>
+**Back-end:** Node.js · Express · PHP · Java<br>
+**Mobile:** React Native (Expo) · Android (Java/Kotlin)<br>
+**Banco de dados:** MySQL · SQLite<br>
 **Ferramentas:** Git · Vite · Webpack · Electron
 
 <p>
