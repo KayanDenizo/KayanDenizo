@@ -1,56 +1,63 @@
-# 💫 Sobre mim:
-✨ Sempre criando, aprendendo e programando<br>
-📚 Cursando Desenvolvimento de Sistemas (ADS) na Etec Uirapuru — sempre em aprendizado e fazendo projetos<br>
-🎯 Objetivos:<br>
-- Trabalhar como programador Full-Stack<br>
-- Atuar também como freelancer, prestando serviços de desenvolvimento<br>
-- Ajudar minha família financeiramente<br>
-- Obter cada vez mais conhecimento<br>
-<br>
-♟ Soft Skills:<br>
-> Trabalho em equipe<br>
-> Boa liderança<br>
-> Lidar com problemas<br>
-> Comunicação<br>
-> Confiança<br>
-> Atitude positiva<br>
-> Capacidade de trabalhar sob pressão<br>
-> Organização e gestão do tempo<br>
-> Inglês fluente<br>
-<br>
-🔥 Hard Skills:<br>
-> HTML5<br>
-> CSS3<br>
-> JAVASCRIPT<br>
-> TYPESCRIPT<br>
-> JAVA<br>
-> KOTLIN<br>
-> LUA<br>
-> TAILWIND CSS<br>
-> MYSQL<br>
-> REACT JS<br>
-> NODEJS<br>
-> PHP<br>
-> YARN<br>
+# Oi, eu sou Kayan Denizo 👋
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+**Dev Full-Stack** em formação no técnico em Desenvolvimento de Sistemas da **ETEC Uirapuru** (São Paulo).
+Gosto de construir produtos de ponta a ponta, do banco de dados à interface, na web, no mobile e no desktop.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kayandenizo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kayandenizo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayandenizo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 Agora: finalizando o **Didáskaros**, meu TCC, que gera grades horárias escolares com IA
+- 🌱 Estudando: TypeScript no back-end, React Native e arquitetura de APIs
+- 🌎 Inglês fluente
+- 💼 Aberto a oportunidades de **estágio / júnior** e projetos freelance
+
+<p>
+  <a href="https://www.linkedin.com/in/kayan-denizo-171a61288/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://kayandenizo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="mailto:kayan.denizo@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
+
+## 🚀 Projetos em destaque
+
+### 🎓 Didáskaros: grade horária escolar com IA (TCC)
+Plataforma em que a coordenação cadastra cursos, disciplinas, salas e professores, e a **IA gera a grade horária** respeitando as restrições da escola. Professores acompanham a grade, o planejamento e os imprevistos por um app mobile.
+<br>`React` `TypeScript` `Tailwind` `Node.js` `Express` `MySQL` `JWT` `Zod` `Claude API` `React Native` `Expo`
+<br><sub>🔒 Código privado (projeto em grupo da ETEC)</sub>
+
+### 📹 [Elo](https://github.com/KayanDenizo/elo-2.1): chamada de vídeo P2P
+Chamada de vídeo para até 3 pessoas com câmera, microfone, compartilhamento de tela e chat. A mídia vai direto entre as máquinas via WebRTC, sem servidor no meio, e o app também roda como desktop com Electron.
+<br>`JavaScript` `WebRTC` `PeerJS` `Electron`
+
+### ⚙️ APIs REST
+- [**api-rest**](https://github.com/KayanDenizo/api-rest): API em TypeScript com Express, validação com Zod e tratamento de erros centralizado
+- [**api-ticket-suporte-project**](https://github.com/KayanDenizo/api-ticket-suporte-project): API de tickets de suporte em Node.js puro, sem frameworks, com roteamento e middlewares próprios
+- [**api-tarefas**](https://github.com/KayanDenizo/api-tarefas): CRUD de tarefas com Express e front-end consumindo a API
+
+### ☕ [Sistema de Cadastro em Java](https://github.com/KayanDenizo/java-ds-project)
+App desktop em Java Swing com login e cadastro de clientes e produtos, persistência em MySQL e padrão DAO.
+<br>`Java` `Swing` `MySQL` `JDBC`
+
+### 🎨 Front-end
+<table>
+  <tr>
+    <td align="center"><a href="https://kayandenizo.github.io/Robotron-Project/"><img src="https://raw.githubusercontent.com/KayanDenizo/Robotron-Project/main/.github/preview.png" width="260" alt="Robotron 2000"><br><b>Robotron 2000</b></a><br><sub>Manipulação do DOM</sub></td>
+    <td align="center"><a href="https://kayandenizo.github.io/fullstack-portal-de-noticias/"><img src="https://raw.githubusercontent.com/KayanDenizo/fullstack-portal-de-noticias/main/.github/preview.png" width="260" alt="Tech News"><br><b>Tech News</b></a><br><sub>Layout com CSS Grid</sub></td>
+    <td align="center"><a href="https://kayandenizo.github.io/LandingPage-MediaQuery/"><img src="https://raw.githubusercontent.com/KayanDenizo/LandingPage-MediaQuery/main/.github/preview.png" width="260" alt="Zingen"><br><b>Zingen Karaokê</b></a><br><sub>Landing page responsiva</sub></td>
+  </tr>
+</table>
+
+## 🛠️ Tecnologias
+
+**Front-end:** React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
+**Back-end:** Node.js · Express · PHP · Java
+**Mobile:** React Native (Expo) · Android (Java/Kotlin)
+**Banco de dados:** MySQL · SQLite
+**Ferramentas:** Git · Vite · Webpack · Electron
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,nodejs,express,php,java,kotlin,androidstudio,mysql,sqlite,electron,vite,webpack,git&perline=9" alt="Tecnologias">
+</p>
+
+## 📊 Estatísticas
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kayandenizo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kayandenizo&theme=tokyonight&hide_border=true" alt="Sequência de contribuições">
+</p>
