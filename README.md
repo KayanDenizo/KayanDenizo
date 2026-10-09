@@ -37,12 +37,12 @@ App desktop em Java Swing com login e cadastro de clientes e produtos, persistê
 ### 🎨 Front-end
 <table>
   <tr>
-    <td align="center"><a href="https://kayandenizo.github.io/LandingPage-Patins-animacoes/"><img src="https://raw.githubusercontent.com/KayanDenizo/LandingPage-Patins-animacoes/main/.github/preview.png" width="380" alt="Snitap Patins"><br><b>Snitap Patins</b></a><br><sub>Landing page com animações em CSS</sub></td>
-    <td align="center"><a href="https://kayandenizo.github.io/LandingPage-MediaQuery/"><img src="https://raw.githubusercontent.com/KayanDenizo/LandingPage-MediaQuery/main/.github/preview.png" width="380" alt="Zingen"><br><b>Zingen Karaokê</b></a><br><sub>Landing page responsiva</sub></td>
+    <td align="center"><a href="https://kayandenizo.github.io/LandingPage-Patins-animacoes/"><img src="https://raw.githubusercontent.com/KayanDenizo/LandingPage-Patins-animacoes/HEAD/.github/preview.png" width="380" alt="Snitap Patins"><br><b>Snitap Patins</b></a><br><sub>Landing page com animações em CSS</sub></td>
+    <td align="center"><a href="https://kayandenizo.github.io/LandingPage-MediaQuery/"><img src="https://raw.githubusercontent.com/KayanDenizo/LandingPage-MediaQuery/HEAD/.github/preview.png" width="380" alt="Zingen"><br><b>Zingen Karaokê</b></a><br><sub>Landing page responsiva</sub></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://kayandenizo.github.io/fullstack-portal-de-noticias/"><img src="https://raw.githubusercontent.com/KayanDenizo/fullstack-portal-de-noticias/main/.github/preview.png" width="380" alt="Tech News"><br><b>Tech News</b></a><br><sub>Layout com CSS Grid</sub></td>
-    <td align="center"><a href="https://kayandenizo.github.io/Robotron-Project/"><img src="https://raw.githubusercontent.com/KayanDenizo/Robotron-Project/main/.github/preview.png" width="380" alt="Robotron 2000"><br><b>Robotron 2000</b></a><br><sub>Manipulação do DOM</sub></td>
+    <td align="center"><a href="https://kayandenizo.github.io/fullstack-portal-de-noticias/"><img src="https://raw.githubusercontent.com/KayanDenizo/fullstack-portal-de-noticias/HEAD/.github/preview.png" width="380" alt="Tech News"><br><b>Tech News</b></a><br><sub>Layout com CSS Grid</sub></td>
+    <td align="center"><a href="https://kayandenizo.github.io/Robotron-Project/"><img src="https://raw.githubusercontent.com/KayanDenizo/Robotron-Project/HEAD/.github/preview.png" width="380" alt="Robotron 2000"><br><b>Robotron 2000</b></a><br><sub>Manipulação do DOM</sub></td>
   </tr>
 </table>
 
